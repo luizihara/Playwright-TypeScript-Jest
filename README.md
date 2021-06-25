@@ -1,7 +1,8 @@
 # Playwright-TypeScript-Jest
 
 This project was been cloned. The original is https://github.com/ortoniKC/Playwright-TypeScript-Jest
-I practiced and tested playwright just followed the the tutorial.
+
+I practiced and tested playwright just followed the tutorial.
 
 
 ## What is Playwright?
